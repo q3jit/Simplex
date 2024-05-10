@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6599C6-DB89-4270-9DEE-27D3C861E80C}|Simplex\\Simplex.csproj|c:\\users\\nazero\\desktop\\project\\simplex\\simplex\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF6599C6-DB89-4270-9DEE-27D3C861E80C}|Simplex\\Simplex.csproj|solutionrelative:simplex\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6599C6-DB89-4270-9DEE-27D3C861E80C}|Simplex\\Simplex.csproj|c:\\users\\nazero\\desktop\\project\\simplex\\simplex\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EF6599C6-DB89-4270-9DEE-27D3C861E80C}|Simplex\\Simplex.csproj|solutionrelative:simplex\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6599C6-DB89-4270-9DEE-27D3C861E80C}|Simplex\\Simplex.csproj|c:\\users\\nazero\\desktop\\project\\simplex\\simplex\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF6599C6-DB89-4270-9DEE-27D3C861E80C}|Simplex\\Simplex.csproj|solutionrelative:simplex\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6599C6-DB89-4270-9DEE-27D3C861E80C}|Simplex\\Simplex.csproj|c:\\users\\nazero\\desktop\\project\\simplex\\simplex\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF6599C6-DB89-4270-9DEE-27D3C861E80C}|Simplex\\Simplex.csproj|solutionrelative:simplex\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6599C6-DB89-4270-9DEE-27D3C861E80C}|Simplex\\Simplex.csproj|c:\\users\\nazero\\desktop\\project\\simplex\\simplex\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF6599C6-DB89-4270-9DEE-27D3C861E80C}|Simplex\\Simplex.csproj|solutionrelative:simplex\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6599C6-DB89-4270-9DEE-27D3C861E80C}|Simplex\\Simplex.csproj|c:\\users\\nazero\\desktop\\project\\simplex\\simplex\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF6599C6-DB89-4270-9DEE-27D3C861E80C}|Simplex\\Simplex.csproj|solutionrelative:simplex\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Simplex\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Simplex\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T08:41:11.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Simplex\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Simplex\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-10T08:41:10.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Simplex\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Simplex\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T08:40:57.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simplex\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Simplex\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T08:40:41.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Simplex\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Simplex\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-10T08:39:50.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Simplex\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\appsettings.Development.json",
+              "RelativeToolTip": "Simplex\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-10T08:39:46.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
