@@ -28,3 +28,4 @@ C:\Users\NaZero\Desktop\project\Simplex\Simplex\obj\Debug\net8.0\refint\Simplex.
 C:\Users\NaZero\Desktop\project\Simplex\Simplex\obj\Debug\net8.0\Simplex.pdb
 C:\Users\NaZero\Desktop\project\Simplex\Simplex\obj\Debug\net8.0\Simplex.genruntimeconfig.cache
 C:\Users\NaZero\Desktop\project\Simplex\Simplex\obj\Debug\net8.0\ref\Simplex.dll
+C:\Users\NaZero\Desktop\project\Simplex\Simplex\obj\Debug\net8.0\Simplex.sourcelink.json

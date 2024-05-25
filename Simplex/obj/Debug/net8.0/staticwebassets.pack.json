@@ -9,8 +9,20 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\wwwroot\\img\\image 1.png",
+      "PackagePath": "staticwebassets\\img\\image 1.png"
+    },
+    {
+      "Id": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\wwwroot\\img\\image 2.png",
+      "PackagePath": "staticwebassets\\img\\image 2.png"
     },
     {
       "Id": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\wwwroot\\js\\site.js",
