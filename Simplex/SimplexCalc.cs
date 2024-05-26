@@ -1,6 +1,6 @@
 ﻿namespace Simplex
 {
-    public class Simplex
+    public class SimplexCalc
     {
         //source - симплекс таблица без базисных переменных
         double[,] table; //симплекс таблица
@@ -9,7 +9,7 @@
 
         List<int> basis; //список базисных переменных
 
-        public Simplex(double[,] source)
+        public SimplexCalc(double[,] source)
         {
             m = source.GetLength(0);
             n = source.GetLength(1);

@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\wwwroot\\img\\example_1.png",
+      "PackagePath": "staticwebassets\\img\\example_1.png"
+    },
+    {
+      "Id": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\wwwroot\\img\\example_2.png",
+      "PackagePath": "staticwebassets\\img\\example_2.png"
+    },
+    {
       "Id": "C:\\Users\\NaZero\\Desktop\\project\\Simplex\\Simplex\\wwwroot\\img\\image 1.png",
       "PackagePath": "staticwebassets\\img\\image 1.png"
     },

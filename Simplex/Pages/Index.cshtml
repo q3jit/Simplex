@@ -2,8 +2,6 @@
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
-    int count_equation = 3;
-    int count = 4;
 }
 
 <header>
@@ -13,30 +11,31 @@
     <img src="img/image 1.png" width="380" height="955">
     <div class="center">
         <div class="button">
-            @for (int i = 0; i < count_equation; i++)
-            {
-                <input type="number">
-            }
-            <br><br>
-            @for (int i = 0; i < count; i++)
-            {
-                <input type="number">
-            }
-            <br><br>
-            @for (int i = 0; i < count; i++)
-            {
-                <input type="number">
-            }
-            <br><br>
-            @for (int i = 0; i < count; i++)
-            {
-                <input type="number">
-            }
-            <br><br>
-            @for (int i = 0; i < count; i++)
-            {
-                <input type="number">
-            }
+            <form method="post">
+                <input name="data[4][1]" />
+                <input name="data[4][2]" />
+                <input name="data[4][0]" />
+                <br><br>
+                <input name="data[3][1]" />
+                <input name="data[3][2]" />
+                <input name="data[3][0]" />
+                <br><br>
+                <input name="data[2][1]" />
+                <input name="data[2][2]" />
+                <input name="data[2][0]" />
+                <br><br>
+                <input name="data[1][1]" />
+                <input name="data[1][2]" />
+                <input name="data[1][0]" />
+                <br><br>
+                <input name="data[0][1]" />
+                <input name="data[0][2]" />
+                <input name="data[0][0]" />
+                <br><br>
+                <input type="submit" value="Send" />
+            </form>
+
+            <h2>@Model.Message</h2>
         </div>
     </div>
     <div>
